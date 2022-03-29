@@ -9,7 +9,7 @@ To run this application you can either go to my portfolio at github.com/porfolio
  In the future, I can add another eye and a mouth that can open when you click on it. I can do this by adding more CSS elements representing the other eye and I can use images for the mouth, after I can use Javascript to manipulate these variables to move.
  
  
- # licensing
+# Licensing
 
  MIT License
 
