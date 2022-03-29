@@ -4,7 +4,7 @@ This project was an assignment we did in class in which we worked with an eye te
 # How to Run
 To run this application you can either go to my portfolio at github.com/porfolio.io OR to run this code you will need to add each file from GitHub to new files in whatever code editor you are using. If you don't use the same file names you will need to change the links for the files. It is better to run it with a live server. If you don't have one, you can download "Live Server" as an extension (Vs Studio). Run the HTML as a live server and it will run as needed.
  
- #Road Map
+ # Road Map
  
  In the future, I can add another eye and a mouth that can open when you click on it. I can do this by adding more CSS elements representing the other eye and I can use images for the mouth, after I can use Javascript to manipulate these variables to move.
  
